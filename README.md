@@ -1,6 +1,6 @@
 # CppND-System-Monitor
 
-A C++ Repository from linux system developer as part of the udacity c++ course 
+A C++ Repository for linux system developer as part of the udacity c++ course 
 
 ## Dependencies
 [ncurses](https://www.gnu.org/software/ncurses/) is a library that facilitates text-based graphical output in the terminal. This project relies on ncurses for display output.
